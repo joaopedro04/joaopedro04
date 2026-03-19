@@ -4,8 +4,6 @@ I'm a Senior Frontend Engineer at [@Mottu](https://www.linkedin.com/company/mott
 
 💻 6+ years building scalable web applications
 
-![snake](https://github.com/joaopedro04/joaopedro04/blob/output/github-contribution-grid-snake.svg)
-
 ### 🚀 Main Stack
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -38,6 +36,18 @@ I'm a Senior Frontend Engineer at [@Mottu](https://www.linkedin.com/company/mott
 ### 🧪 Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+## 📈 My stats:
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro04&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+## 🐍 My contributions:
+
+![snake](https://github.com/joaopedro04/joaopedro04/blob/output/github-contribution-grid-snake.svg)
 
 ## 📬 Contact
 

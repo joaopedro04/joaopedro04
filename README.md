@@ -18,9 +18,9 @@ I'm a Senior Frontend Engineer at [@Mottu](https://www.linkedin.com/company/mott
 
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![NgRx](https://img.shields.io/badge/-NgRx-BA2BD2?style=flat)
-![Micro Frontend](https://img.shields.io/badge/-Micro%20Frontend-000000?style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Micro Frontend](https://img.shields.io/badge/-Micro%20Frontend-000000?style=flat)
 
 ### ⚡ Also worked with
 
